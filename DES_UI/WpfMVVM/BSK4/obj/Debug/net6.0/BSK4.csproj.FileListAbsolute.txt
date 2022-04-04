@@ -1,0 +1,12 @@
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\bin\Debug\net6.0\BSK4.deps.json
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\bin\Debug\net6.0\BSK4.dll
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\bin\Debug\net6.0\ref\BSK4.dll
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\bin\Debug\net6.0\BSK4.pdb
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\obj\Debug\net6.0\BSK4.csproj.AssemblyReference.cache
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\obj\Debug\net6.0\BSK4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\obj\Debug\net6.0\BSK4.AssemblyInfoInputs.cache
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\obj\Debug\net6.0\BSK4.AssemblyInfo.cs
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\obj\Debug\net6.0\BSK4.csproj.CoreCompileInputs.cache
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\obj\Debug\net6.0\BSK4.dll
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\obj\Debug\net6.0\ref\BSK4.dll
+C:\Users\pwojc\Desktop\Zadanie3\WpfMVVM\BSK4\obj\Debug\net6.0\BSK4.pdb
